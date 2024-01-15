@@ -1,0 +1,19 @@
+body {
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#game {
+    border: 1px solid #fff;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+}
